@@ -1,0 +1,16 @@
+*.mod
+*.o
+*.make*
+build/*.out
+logs
+bin/getmathflags
+build/.depends
+*~
+*/*~
+*/*/*~
+*.bindata
+*.dat
+*.data
+data
+bin
+docs
