@@ -116,7 +116,7 @@ subroutine modify_dump(npart,npartoftype,massoftype,xyzh,vxyzu,nstar1,nstar2)
  nfulldump      =   10
  iexternalforce =    0
  !
- !
+ !WTFISGOINGON
  return
 end subroutine modify_dump
 !-----------------------------------------------------------------------
